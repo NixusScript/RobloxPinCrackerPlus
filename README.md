@@ -10,6 +10,7 @@ To find your cookie, install an extention like https://cookie-editor.cgagnier.ca
   
 ## Running the program:
 Assuming you have python installed, simply run the python program through either double clicking or terminal. This is an entirely commandline program. It will automatically create the three text files it needs. It should be fairly self explanatory. 
+Alternatively, on a windows machine, visit the Releases section to find the .exe file. 
 
 ## Support: 
 You could either contact me through email `hi@amanda.ng.eu.org` or contact the support for the official fork, information within the credits section in the program. 
